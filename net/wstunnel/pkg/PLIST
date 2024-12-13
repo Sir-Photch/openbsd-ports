@@ -1,0 +1,4 @@
+@newgroup _wstunnel:901
+@newuser _wstunnel:901:901::wstunnel account:/var/empty:/sbin/nologin
+@rcscript ${RCDIR}/wstunnel
+@bin bin/wstunnel
