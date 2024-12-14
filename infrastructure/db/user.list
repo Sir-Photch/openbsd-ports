@@ -92,7 +92,7 @@ id  user		group		port
 #581 _gonzui		_gonzui		textproc/gonzui
 582 _tabled		_tabled		sysutils/tabled
 #583			_kdesud		x11/kde/base3
-#584 _nepenthes		_nepenthes	net/nepenthes
+584 _wstunnel		_wstunnel	net/wstunnel
 585 _lighttpd		_lighttpd	www/lighttpd
 586 _gnugk		_gnugk		net/gnugk
 587 _darkstat		_darkstat	net/darkstat
@@ -409,4 +409,3 @@ id  user		group		port
 898 _icingadb		_icingadb	net/icinga/icingadb
 899 _openhab		_openhab	misc/openhab
 900 _z2m		_z2m		comms/zigbee2mqtt
-901 _wstunnel		_wstunnel	net/wstunnel

@@ -6,7 +6,7 @@ Index: Cargo.toml
  clap = { version = "4.5.23", features = ["derive", "env"] }
  fast-socks5 = { version = "0.9.6", features = [] }
 -fastwebsockets = { git = "https://github.com/erebe/fastwebsockets.git", features = ["upgrade", "simd", "unstable-split"] }
-+fastwebsockets = { version = "0.8.0", features = ["upgrade", "simd", "unstable-split"] }
++fastwebsockets = { path = "./fastwebsockets", features = ["upgrade", "simd", "unstable-split"] }
  futures-util = { version = "0.3.31" }
  hickory-resolver = { version = "0.24.2", features = ["tokio", "dns-over-https-rustls", "dns-over-rustls", "native-certs"] }
  ppp = { version = "2.2.0", features = [] }

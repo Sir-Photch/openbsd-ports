@@ -3,11 +3,11 @@
 daemon="${TRUEPREFIX}/bin/wstunnel"
 daemon_user="_wstunnel"
 daemon_logger="daemon.info"
-daemon_flags="server --restrict-to localhost:51820 ws://localhost:8443 --no-color true"
-
-rc_bg="YES"
-rc_reload="NO"
+daemon_flags="server wss://localhost:8080 --no-color true"
 
 . /etc/rc.d/rc.subr
+
+rc_bg=YES
+rc_reload=NO
 
 rc_cmd $1
