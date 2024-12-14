@@ -346,7 +346,6 @@ SHA256 (cargo/zerovec-0.10.4.tar.gz) = qiuJPXnfI7+xLVRhAY1AjqGd+v52wsfvbU66YU+P8
 SHA256 (cargo/zerovec-derive-0.10.3.tar.gz) = bq+m37F1hOo+K9bnbgzBWtevErCavdHKVZYb7ZsQY8Y=
 SHA256 (erebe-fastwebsockets-ef904598ec168d7748b28d77ec1803ba721932d8.tar.gz) = pTk3zyTTSZ0jr2ofJrFT4W3HZ15YwiySddSrPzmd6WY=
 SHA256 (erebe-wstunnel-v10.1.7.tar.gz) = fMEWgfd+tQMxEzKZF0FQ7ekp7azzgbsGq3YgU3cLoDs=
-SHA256 (wstunnel-10.1.7.tar.gz) = fMEWgfd+tQMxEzKZF0FQ7ekp7azzgbsGq3YgU3cLoDs=
 SIZE (cargo/addr2line-0.24.2.tar.gz) = 39015
 SIZE (cargo/adler2-2.0.0.tar.gz) = 13529
 SIZE (cargo/ahash-0.8.11.tar.gz) = 43607
@@ -695,4 +694,3 @@ SIZE (cargo/zerovec-0.10.4.tar.gz) = 126398
 SIZE (cargo/zerovec-derive-0.10.3.tar.gz) = 19438
 SIZE (erebe-fastwebsockets-ef904598ec168d7748b28d77ec1803ba721932d8.tar.gz) = 57473
 SIZE (erebe-wstunnel-v10.1.7.tar.gz) = 281043
-SIZE (wstunnel-10.1.7.tar.gz) = 281043
