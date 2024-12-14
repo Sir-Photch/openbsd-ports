@@ -72,7 +72,6 @@ SHA256 (cargo/etcetera-0.8.0.tar.gz) = E20bUoOhq3e9kldCf/0J2GZ87QVwtvk4lCvHVo7Vu
 SHA256 (cargo/event-listener-5.3.1.tar.gz) = YDK+m9JwI6dxcBzEn58FPHUQVfce+y4K5cFYCQk2dbo=
 SHA256 (cargo/event-listener-strategy-0.5.3.tar.gz) = PD5ODdNnPBE5vwQfMAiBbZzylGu/rClFwJ5SO417BbI=
 SHA256 (cargo/fast-socks5-0.9.6.tar.gz) = +J821O4SNw0w1XsWx+GQlQoakW59u7X9WkEvXvkT/oQ=
-SHA256 (cargo/fastwebsockets-0.8.0.tar.gz) = JtoMe1zvRcUhpvnN//3+tsn1gE+6wzLeta4lRjTHpr4=
 SHA256 (cargo/fdlimit-0.3.0.tar.gz) = 4YL328Lvc9nvZzUcX7vqCEcpxINi086d1Ewo4y4nf+U=
 SHA256 (cargo/filetime-0.2.25.tar.gz) = NcBSLpgeaMv6jD+XhEGl80swuW4UazPNM1kXa1D+hYY=
 SHA256 (cargo/fnv-1.0.7.tar.gz) = P57skY0/JAad7LmvFVTK18iA4tokqa/YisoABTGrgsE=
@@ -345,6 +344,8 @@ SHA256 (cargo/zerofrom-derive-0.1.5.tar.gz) = WV7tmC99NVvrhYN/ZR+iLpCzwESELcfywo
 SHA256 (cargo/zeroize-1.8.1.tar.gz) = ztNniih5swMG0yP0VCYmaXpGSpfAoHya6/frymXNTd4=
 SHA256 (cargo/zerovec-0.10.4.tar.gz) = qiuJPXnfI7+xLVRhAY1AjqGd+v52wsfvbU66YU+P8Hk=
 SHA256 (cargo/zerovec-derive-0.10.3.tar.gz) = bq+m37F1hOo+K9bnbgzBWtevErCavdHKVZYb7ZsQY8Y=
+SHA256 (erebe-fastwebsockets-ef904598ec168d7748b28d77ec1803ba721932d8.tar.gz) = pTk3zyTTSZ0jr2ofJrFT4W3HZ15YwiySddSrPzmd6WY=
+SHA256 (erebe-wstunnel-v10.1.7.tar.gz) = fMEWgfd+tQMxEzKZF0FQ7ekp7azzgbsGq3YgU3cLoDs=
 SHA256 (wstunnel-10.1.7.tar.gz) = fMEWgfd+tQMxEzKZF0FQ7ekp7azzgbsGq3YgU3cLoDs=
 SIZE (cargo/addr2line-0.24.2.tar.gz) = 39015
 SIZE (cargo/adler2-2.0.0.tar.gz) = 13529
@@ -420,7 +421,6 @@ SIZE (cargo/etcetera-0.8.0.tar.gz) = 13295
 SIZE (cargo/event-listener-5.3.1.tar.gz) = 42576
 SIZE (cargo/event-listener-strategy-0.5.3.tar.gz) = 10920
 SIZE (cargo/fast-socks5-0.9.6.tar.gz) = 33144
-SIZE (cargo/fastwebsockets-0.8.0.tar.gz) = 52533
 SIZE (cargo/fdlimit-0.3.0.tar.gz) = 6415
 SIZE (cargo/filetime-0.2.25.tar.gz) = 14940
 SIZE (cargo/fnv-1.0.7.tar.gz) = 11266
@@ -693,4 +693,6 @@ SIZE (cargo/zerofrom-derive-0.1.5.tar.gz) = 8285
 SIZE (cargo/zeroize-1.8.1.tar.gz) = 20029
 SIZE (cargo/zerovec-0.10.4.tar.gz) = 126398
 SIZE (cargo/zerovec-derive-0.10.3.tar.gz) = 19438
+SIZE (erebe-fastwebsockets-ef904598ec168d7748b28d77ec1803ba721932d8.tar.gz) = 57473
+SIZE (erebe-wstunnel-v10.1.7.tar.gz) = 281043
 SIZE (wstunnel-10.1.7.tar.gz) = 281043
