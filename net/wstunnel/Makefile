@@ -1,6 +1,6 @@
 COMMENT =		tunnel all your traffic over Websocket or HTTP2
 
-DIST_TUPLE +=		github erebe wstunnel v10.1.7 .
+DIST_TUPLE +=		github erebe wstunnel v10.1.8 .
 DIST_TUPLE +=		github erebe fastwebsockets ef904598ec168d7748b28d77ec1803ba721932d8 fastwebsockets
 
 CATEGORIES =		net
